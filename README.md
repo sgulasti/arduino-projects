@@ -12,3 +12,10 @@ Concepts used:
 - Digital I/O
 - Timing and pulse measurement
 - Sensor integration
+
+### Kullanılan bağlantılar (HC-SR04)
+- VCC → 5V
+- GND → GND
+- TRIG → D9
+- ECHO → D10
+- LED → D13 (Arduino üzerindeki dahili LED)
